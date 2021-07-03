@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @STARK070
 - 👀 I’m interested in coding and gaming 
 - 🌱 I’m currently pursuing BTech in CSE  
-- 💞️ I’m looking to collaborate on a c/cpp/html project
+- 💞️ I’m looking to collaborate on a c/cpp/python project
 - 📫 How to reach me: shreygajjar007@gmailcom
 
 <!---
